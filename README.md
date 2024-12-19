@@ -13,9 +13,9 @@
 ## Installation
 
 ```console
-pip install sql-utils
+pip install sql_utils
 ```
 
 ## License
 
-`sql-utils` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
+`sql_utils` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
